@@ -1,7 +1,7 @@
 # Kirke Design
 
 - Multiple view controllers
-- Stanard iOS controls
+- Fully native iOS controls
 - Relm for data storage
 - Settings view
 - Calendar view (day, week, month)
